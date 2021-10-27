@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "v-classics":"/pages/classicAll/classicAll"
+  }
+}

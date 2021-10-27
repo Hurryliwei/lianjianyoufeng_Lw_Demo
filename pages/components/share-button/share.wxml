@@ -1,0 +1,5 @@
+<!--pages/components/share-button/share.wxml-->
+<button open-type='{{openType}}'  plain='{{true}}'
+     class="share-container">
+    <slot name="img"></slot>
+</button>

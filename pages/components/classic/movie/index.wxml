@@ -1,0 +1,8 @@
+<!--pages/components/classic/movie/index.wxml-->
+<view class="classic-container" hover-class="none" hover-stop-propagation="false" hidden="{{hidden}}">
+    <image src="{{img}}" class="classic-img" />
+    <image src="../../image/movie@tag.png"  class="tag"/>
+    <text class="content">
+        {{content}}  
+    </text>
+</view>

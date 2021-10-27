@@ -1,0 +1,6 @@
+.share-container{
+    padding: 0 !important;
+    border:none !important;
+    width: 90rpx !important;
+    height: 70rpx !important;
+  }
